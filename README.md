@@ -8,6 +8,10 @@ Leprechaun Trap - Child's School Project
 | :---------- | :------: | --------: | :--------- | :---------- |
 | Linear Bearing Supported Slide Rail | 2 | $29.95 | 1851 | [Adafruit 1851](https://www.adafruit.com/product/1851) |
 | Linear Bearing Pillow Block | 2 | $5.95 | 1183 | [Adafruit 1183](https://www.adafruit.com/product/1183) |
+| Slotted Aluminum Extrusion 20mm x 20mm x 610mm | 4 | $7.50 | 1221 | [Adafruit 1221](https://www.adafruit.com/product/1221) |
+| Aluminum Extrusion Corner Brace Support | 4 | $0.95 | 1155 | [Adafruit](https://www.adafruit.com/product/1155) |
+| T-Nuts | 8 | | | |
+| 8mm Screws | 8 | | | |
 
 
 ### Installing
