@@ -3,9 +3,12 @@ Leprechaun Trap - Child's School Project
 
 ## Getting Started
 
-### Prerequisites
-Authorization and connection to Hopper DW_DB required.
-Specified error handling procedures on SQL Server preferred.
+### Project Materials
+| Description | Quantity | Price Per | Product ID | Vendor Link |
+| ----------- | :------: | --------: | ---------- | ----------- |
+| Linear Bearing Supported Slide Rail | 2 | $29.95 | 1851 | [Adafruit 1851](https://www.adafruit.com/product/1851) |
+| Linear Bearing Pillow Block | 2 | $5.95 | 1183 | [Adafruit 1183](https://www.adafruit.com/product/1183) |
+
 
 ### Installing
 
